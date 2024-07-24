@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AzureImp27
-- 👀 I’m interested in ... Coding
+- 👀 I’m interested in ... JavaScript
 - 🌱 I’m currently learning ... Frontend Development
 
 <!---
